@@ -4,7 +4,7 @@
 .Description
   Server health check
 .Notes
-  ScriptName  : PatchingListgenerater.PS1
+  ScriptName  : Serverhealthcheck.PS1
   Requires    : Powershell Version 5.0
   Author      : Jithendra Kudikala
   EMAIL       : jithendra.kudikala@gmail.com
